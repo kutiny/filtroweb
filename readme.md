@@ -22,7 +22,7 @@ Para utilizarlo necesitaras en tu documento HTML los siguientes elementos:
 - El tipo de datos de cada archivo se especifica en cada elemento 'a' de #publicaciones, con el atributo 'data-type', por ejemplo &lt;a href="archivos/archivo.extension" data-type="extension">Texto a Mostrar&lt;/a>.
 	Este tipo de datos es el que se filtra, y se filtra de acuerdo al ID de los checkbox.
 
-- Un INPUT de tipo texto con el ID = "text__filter", se va a encargar de buscar sobre el texto de la etiqueta de enlace.
+- Un INPUT de tipo texto con el ID = "text_filter", se va a encargar de buscar sobre el texto de la etiqueta de enlace.
 
 ## USUARIOS CON CONOCIMIENTO EN JAVASCRIPT
 Dentro de la carpeta dev se encuentra el archivo desarrollado por mí, está creado para que puedan modificar el nombre de las variables utilizadas, por si en algún caso los nombres colocados por defecto impactan sobre su proyecto.
