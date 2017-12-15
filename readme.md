@@ -8,7 +8,7 @@ Para utilizarlo necesitaras en tu documento HTML los siguientes elementos:
 - Un DIV con ID = "publicaciones", que contendrá solo los enlaces a los archivos (sólo elementos a)
 		Este DIV no deberá ser visible en el documento (ya que es el que contiene todos los enlaces)
 
-		** Se ha encontrado un error: si se diseña sobre HTML y no está minificado (es decir, contiene espacios y saltos de linea) el plugin no funciona como debería, se recomienda que en este DIV no haya espacios ni saltos de linea. **
+** Se ha encontrado un error: si se diseña sobre HTML y no está minificado (es decir, contiene espacios y saltos de linea) el plugin no funciona como debería, se recomienda que en este DIV no haya espacios ni saltos de linea. **
 
 - Un DIV con ID = "listado", es el que se actualizará constantemente con el filtro.
 	Puede estar vacío o no, de igual manera se limpia al cargar la página y se colocan todos los elementos de #publicaciones.
