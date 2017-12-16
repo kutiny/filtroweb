@@ -2,14 +2,16 @@
 Es un filtro que nos permite buscar en un listado por cadena de texto o filtrando su tipo de archivo.
 
 ## RECOMENDACIONES -- USUARIOS SIN CONOCIMIENTO JAVASCRIPT
-Si no conoces sobre desarrollo en Javascript te recomiendo utilizar el archivo que está dentro de la carpeta compressed.
+Si no conoces sobre desarrollo en Javascript te recomiendo utilizar el archivo que está dentro de la carpeta compressed (tiene un menor peso y no tienes que modificar nada)
 
-Para utilizarlo necesitaras en tu documento HTML los siguientes elementos:
+Sigue los pasos a continuación o mira este video: https://www.youtube.com/watch?v=LglSEvOTi8c&t=41s
+
+Para utilizarlo necesitarás en tu documento HTML los siguientes elementos:
 - Un DIV con ID = "publicaciones", que contendrá solo los enlaces a los archivos (sólo elementos a)
 		Este DIV no deberá ser visible en el documento (ya que es el que contiene todos los enlaces)
 
 ```diff
-- Se ha encontrado un error: si se diseña sobre HTML y no está minificado (es decir, contiene espacios y saltos de linea) el plugin no funciona como debería, se recomienda que en este DIV no haya espacios ni saltos de linea.
+- Se ha encontrado un error: si se diseña sobre HTML y no está minificado (es decir, contiene espacios y saltos de linea) el plugin no funciona como debería, se recomienda que en este DIV(publicaciones) no haya espacios ni saltos de linea.
 ```
 
 - Un DIV con ID = "listado", es el que se actualizará constantemente con el filtro.
