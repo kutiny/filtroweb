@@ -1,4 +1,4 @@
-# FILTRO WEB v1.1.1
+# FILTRO WEB v1.1.2
 Es un filtro que nos permite buscar en un listado por cadena de texto o filtrando su tipo de archivo.
 
 ## RECOMENDACIONES -- USUARIOS SIN CONOCIMIENTO JAVASCRIPT
