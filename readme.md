@@ -4,7 +4,7 @@ Es un filtro que nos permite buscar en un listado por cadena de texto o filtrand
 ## RECOMENDACIONES -- USUARIOS SIN CONOCIMIENTO JAVASCRIPT
 Si no conoces sobre desarrollo en Javascript te recomiendo utilizar el archivo que está dentro de la carpeta compressed (tiene un menor peso y no tienes que modificar nada)
 
-Sigue los pasos a continuación o mira este video: **uploading video**
+Sigue los pasos a continuación o mira este video: https://www.youtube.com/watch?v=S0rMwHZTEoQ
 
 Para utilizarlo necesitarás en tu documento HTML los siguientes elementos:
 - La cantidad de CheckBox que sea necesaria en tu proyecto (con sus label), deben incluir la CLASE ".input__filtro" y el ID debe ser exactamente igual al tipo de archivo que se quiere filtrar, por ejemplo "mp3, doc, pdf".
